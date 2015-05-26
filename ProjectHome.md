@@ -1,0 +1,1 @@
+The project provides a variety of tridiagonal solvers based on cyclic reduction for CUDA-enabled GPUs.
